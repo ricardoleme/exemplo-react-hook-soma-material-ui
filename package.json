@@ -1,5 +1,6 @@
 {
   "name": "exemplo-react-hook-soma-material-ui",
+  "homepage": "http://ricardoleme.github.io/exemplo-react-hook-soma-material-ui",
   "version": "1.0.0",
   "description": "Exemplo de um pequeno app de soma utilizando Hooks e testes com Jest. A UI foi desenvolvida com Material-ui",
   "keywords": [],
@@ -22,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
