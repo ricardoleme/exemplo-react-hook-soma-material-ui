@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/exemplo-react-hook-soma-material-ui/static/js/main.54d01f4d.chunk.js",
+    "main.js.map": "/exemplo-react-hook-soma-material-ui/static/js/main.54d01f4d.chunk.js.map",
+    "runtime~main.js": "/exemplo-react-hook-soma-material-ui/static/js/runtime~main.079dd0c0.js",
+    "runtime~main.js.map": "/exemplo-react-hook-soma-material-ui/static/js/runtime~main.079dd0c0.js.map",
+    "static/js/2.e1961c39.chunk.js": "/exemplo-react-hook-soma-material-ui/static/js/2.e1961c39.chunk.js",
+    "static/js/2.e1961c39.chunk.js.map": "/exemplo-react-hook-soma-material-ui/static/js/2.e1961c39.chunk.js.map",
+    "index.html": "/exemplo-react-hook-soma-material-ui/index.html",
+    "precache-manifest.af1f30c4a00fdcdec29b57e93b327852.js": "/exemplo-react-hook-soma-material-ui/precache-manifest.af1f30c4a00fdcdec29b57e93b327852.js",
+    "service-worker.js": "/exemplo-react-hook-soma-material-ui/service-worker.js"
+  }
+}
